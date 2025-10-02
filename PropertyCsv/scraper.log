@@ -1,0 +1,759 @@
+2025-10-02 16:56:43,881 - INFO - Starting to scrape data for Mumbai
+2025-10-02 16:56:43,882 - INFO - ====== WebDriver manager ======
+2025-10-02 16:56:45,061 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 16:56:45,163 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 16:56:45,248 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 16:56:46,318 - INFO - Scraping Mumbai - Page 1
+2025-10-02 16:57:10,890 - ERROR - Error waiting for elements mb-srp__card: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 16:57:10,894 - WARNING - No property cards found on Mumbai page 1
+2025-10-02 16:58:29,495 - INFO - Starting to scrape data for Mumbai
+2025-10-02 16:58:29,496 - INFO - ====== WebDriver manager ======
+2025-10-02 16:58:30,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 16:58:30,662 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 16:58:30,770 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 16:58:31,846 - INFO - Scraping Mumbai - Page 1
+2025-10-02 16:58:57,570 - ERROR - Error waiting for elements mb-srp__card: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 16:58:57,570 - WARNING - No property cards found on Mumbai page 1
+2025-10-02 16:59:58,342 - INFO - Starting to scrape data for Delhi
+2025-10-02 16:59:58,343 - INFO - ====== WebDriver manager ======
+2025-10-02 16:59:59,398 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 16:59:59,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 16:59:59,562 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:00:00,614 - INFO - Scraping Delhi - Page 1
+2025-10-02 17:00:24,730 - ERROR - Error waiting for elements mb-srp__card: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:00:24,731 - WARNING - No property cards found on Delhi page 1
+2025-10-02 17:01:58,688 - INFO - Starting to scrape data for Mumbai
+2025-10-02 17:01:58,688 - INFO - ====== WebDriver manager ======
+2025-10-02 17:01:59,746 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:01:59,834 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:01:59,916 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:02:11,462 - INFO - Scraping Mumbai - Page 1
+2025-10-02 17:02:46,321 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:03:11,515 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:03:35,369 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:03:35,370 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:03:35,370 - WARNING - No property cards found on Mumbai page 1
+2025-10-02 17:04:37,321 - INFO - Starting to scrape data for Delhi
+2025-10-02 17:04:37,321 - INFO - ====== WebDriver manager ======
+2025-10-02 17:04:38,418 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:04:38,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:04:38,591 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:04:50,573 - INFO - Scraping Delhi - Page 1
+2025-10-02 17:05:26,881 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:05:51,518 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:07:02,969 - INFO - Starting scraping for Mumbai
+2025-10-02 17:07:02,969 - INFO - Starting to scrape data for Mumbai
+2025-10-02 17:07:02,969 - INFO - ====== WebDriver manager ======
+2025-10-02 17:07:04,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:07:04,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:07:04,191 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:07:05,255 - INFO - Browser initialized successfully
+2025-10-02 17:07:16,373 - INFO - Scraping Mumbai - Page 1
+2025-10-02 17:07:50,748 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:08:15,254 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:08:40,391 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:08:40,391 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:08:40,391 - WARNING - No property cards found on Mumbai page 1
+2025-10-02 17:08:42,533 - INFO - Waiting 59.28 seconds before next city...
+2025-10-02 17:09:41,823 - INFO - Starting scraping for Delhi
+2025-10-02 17:09:41,823 - INFO - Starting to scrape data for Delhi
+2025-10-02 17:09:41,824 - INFO - ====== WebDriver manager ======
+2025-10-02 17:09:42,884 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:09:42,966 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:09:43,044 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:09:44,090 - INFO - Browser initialized successfully
+2025-10-02 17:09:54,762 - INFO - Scraping Delhi - Page 1
+2025-10-02 17:10:32,501 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:10:57,286 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:11:20,103 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:11:20,103 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:11:20,103 - WARNING - No property cards found on Delhi page 1
+2025-10-02 17:11:22,220 - INFO - Waiting 53.16 seconds before next city...
+2025-10-02 17:12:15,398 - INFO - Starting scraping for Bangalore
+2025-10-02 17:12:15,398 - INFO - Starting to scrape data for Bangalore
+2025-10-02 17:12:15,398 - INFO - ====== WebDriver manager ======
+2025-10-02 17:12:16,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:12:16,559 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:12:16,636 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:12:17,731 - INFO - Browser initialized successfully
+2025-10-02 17:12:27,604 - INFO - Scraping Bangalore - Page 1
+2025-10-02 17:13:04,620 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:13:28,776 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:13:53,678 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:13:53,678 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:13:53,678 - WARNING - No property cards found on Bangalore page 1
+2025-10-02 17:13:55,846 - INFO - Waiting 52.03 seconds before next city...
+2025-10-02 17:14:47,881 - INFO - Starting scraping for Hyderabad
+2025-10-02 17:14:47,881 - INFO - Starting to scrape data for Hyderabad
+2025-10-02 17:14:47,881 - INFO - ====== WebDriver manager ======
+2025-10-02 17:14:48,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:14:49,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:14:49,124 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:14:50,210 - INFO - Browser initialized successfully
+2025-10-02 17:14:58,473 - INFO - Scraping Hyderabad - Page 1
+2025-10-02 17:15:36,333 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:15:59,894 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:16:24,639 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:16:24,640 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:16:24,640 - WARNING - No property cards found on Hyderabad page 1
+2025-10-02 17:16:26,787 - INFO - Waiting 34.69 seconds before next city...
+2025-10-02 17:17:01,481 - INFO - Starting scraping for Chennai
+2025-10-02 17:17:01,481 - INFO - Starting to scrape data for Chennai
+2025-10-02 17:17:01,482 - INFO - ====== WebDriver manager ======
+2025-10-02 17:17:02,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:17:02,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:17:02,694 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:17:03,761 - INFO - Browser initialized successfully
+2025-10-02 17:17:15,026 - INFO - Scraping Chennai - Page 1
+2025-10-02 17:17:50,693 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:18:14,902 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:18:39,485 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:18:39,486 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:18:39,486 - WARNING - No property cards found on Chennai page 1
+2025-10-02 17:18:41,656 - INFO - Waiting 36.21 seconds before next city...
+2025-10-02 17:19:17,881 - INFO - Starting scraping for Kolkata
+2025-10-02 17:19:17,881 - INFO - Starting to scrape data for Kolkata
+2025-10-02 17:19:17,882 - INFO - ====== WebDriver manager ======
+2025-10-02 17:19:19,113 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:19:19,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:19:19,556 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:19:20,647 - INFO - Browser initialized successfully
+2025-10-02 17:19:29,447 - INFO - Scraping Kolkata - Page 1
+2025-10-02 17:20:01,552 - WARNING - Attempt with selector mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:20:25,437 - WARNING - Attempt with selector .mb-srp__card failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:20:48,250 - WARNING - Attempt with selector //*[contains(@class, 'mb-srp__card')] failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x122c333+65459]
+	GetHandleVerifier [0x0x122c374+65524]
+	(No symbol) [0x0x104d973]
+	(No symbol) [0x0x10976e7]
+	(No symbol) [0x0x1097a8b]
+	(No symbol) [0x0x10ddea2]
+	(No symbol) [0x0x10b9e44]
+	(No symbol) [0x0x10db606]
+	(No symbol) [0x0x10b9bf6]
+	(No symbol) [0x0x108b38e]
+	(No symbol) [0x0x108c274]
+	GetHandleVerifier [0x0x14aeda3+2697763]
+	GetHandleVerifier [0x0x14a9ec7+2677575]
+	GetHandleVerifier [0x0x1254194+228884]
+	GetHandleVerifier [0x0x12449f8+165496]
+	GetHandleVerifier [0x0x124b18d+192013]
+	GetHandleVerifier [0x0x12347d8+99416]
+	GetHandleVerifier [0x0x1234972+99826]
+	GetHandleVerifier [0x0x121ebea+10346]
+	BaseThreadInitThunk [0x0x75f95d49+25]
+	RtlInitializeExceptionChain [0x0x7769d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7769d661+561]
+
+2025-10-02 17:20:48,251 - ERROR - All attempts to find elements with class mb-srp__card failed
+2025-10-02 17:20:48,251 - WARNING - No property cards found on Kolkata page 1
+2025-10-02 17:20:50,407 - INFO - Waiting 30.93 seconds before next city...
+2025-10-02 17:21:21,339 - INFO - Starting scraping for Pune
+2025-10-02 17:21:21,339 - INFO - Starting to scrape data for Pune
+2025-10-02 17:21:21,339 - INFO - ====== WebDriver manager ======
+2025-10-02 17:21:22,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:21:22,848 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-02 17:21:22,947 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-02 17:21:24,012 - INFO - Browser initialized successfully
+2025-10-02 17:21:32,398 - INFO - Scraping Pune - Page 1
